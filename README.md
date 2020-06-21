@@ -8,13 +8,15 @@ All assets and materials used in the repository are solely for educational purpo
 -------------------------------------
 
 Group members:
-- Maisarah Yixuen Mohd Zainudin (2018273142)
-- Nursyafinaz Mohamad Fua'at (2018422734)
-- Nurul Nadia Muhammad Radzi (2018212076)
-- Amizatul Athira Zulkifle (2018639548)
-- Noor Dzurbaitul Arfah Mohd Dzulkhibri (2018636562)
-Class group: KIM1204A
-Lecturer in charge: Mohd Firdaus Mohd Hilmi
-
-Faculty of Information Management
-Universiti Teknologi MARA Kedah
+<ul>
+  <li>Maisarah Yixuen Mohd Zainudin (2018273142)</li>
+  <li>Nursyafinaz Mohamad Fua'at (2018422734)</li>
+  <li>Nurul Nadia Muhammad Radzi (2018212076)</li>
+  <li>Amizatul Athira Zulkifle (2018639548)</li>
+  <li>Noor Dzurbaitul Arfah Mohd Dzulkhibri (2018636562)</li>
+ </ul>
+<br>Class group: KIM1204A
+<br>Lecturer in charge: Mohd Firdaus Mohd Hilmi
+<br>
+<br>Faculty of Information Management
+<br>Universiti Teknologi MARA Kedah
